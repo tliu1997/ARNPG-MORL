@@ -9,14 +9,15 @@ Here we list our running environment:
 - numpy == 1.19.2
 - gym == 0.21.0
 - matplotlib == 3.4.3
+- mujoco == 2.2.2
 
 
 ### Tasks
 We implement our proposed ARNPG algorithms in the following environments:
 - Tabular MDP (oracle)
 - Tabular MDP (sample-based)
-- Acrobot-v1
-- Hopper-v3
+- Acrobot-v1 (deep RL)
+- Hopper-v3 (deep RL)
 
 
 ### Execution
